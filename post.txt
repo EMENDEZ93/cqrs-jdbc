@@ -6,3 +6,5 @@ http://localhost:8080/event
 }
 
 http://localhost:8008/
+
+* pasar rowMapper infrastructure - sql
